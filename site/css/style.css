@@ -366,3 +366,9 @@ main{min-height:50vh}
 .shot .cap h3{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;overflow-wrap:anywhere}
 .card h3{overflow-wrap:anywhere}
 @media (max-width:600px){.section-head{flex-wrap:wrap;gap:4px 12px}.section-head .link{white-space:nowrap}}
+
+/* donate perks */
+.perks-title{margin-top:22px}
+.perks{list-style:none;display:flex;flex-direction:column;gap:10px;margin-top:10px;padding:0}
+.perks li{display:flex;align-items:center;gap:14px;color:#dbe5f3}
+.perks .mc-slot{width:40px;height:40px;flex:none;display:flex;align-items:center;justify-content:center;font:1.5rem VT323,monospace;color:var(--orange-bright)}
