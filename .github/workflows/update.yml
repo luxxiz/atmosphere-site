@@ -39,7 +39,7 @@ jobs:
 
       - name: Pull Discord posts + server status (read-only)
         env:
-          ATMOSPHERE_DISCORD_BOT_TOKEN: ${{ secrets.ATMOSPHERE_DISCORD_BOT_TOKEN }}
+          ATMOSPHERE_DISCORD_BOT_TOKEN: ${{ secrets.ATMOSPHEREBOT }}
         run: python updater/update.py
 
       - name: Build pages

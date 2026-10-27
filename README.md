@@ -38,12 +38,12 @@ Plain HTML/CSS/JS, hosted on GitHub Pages, refreshed automatically from Discord 
 
 Settings can be overridden with environment variables: `ATMOSPHERE_ANNOUNCEMENTS_CHANNEL_ID`,
 `ATMOSPHERE_SHOWCASE_CHANNEL_ID`, `ATMOSPHERE_MC_HOST`, `ATMOSPHERE_MC_PORT`.
-The token comes **only** from `ATMOSPHERE_DISCORD_BOT_TOKEN` (a GitHub secret). Never commit it.
+The token comes **only** from the GitHub secret `ATMOSPHEREBOT` (the workflow passes it in as `ATMOSPHERE_DISCORD_BOT_TOKEN`). Never commit it.
 
 ## One-time setup on GitHub
 
 1. Create a repository (public, so GitHub Pages and Actions minutes are free) and push this folder to `main`.
-2. *Settings → Secrets and variables → Actions → New repository secret*: name `ATMOSPHERE_DISCORD_BOT_TOKEN`,
+2. *Settings → Secrets and variables → Actions → New repository secret*: name `ATMOSPHEREBOT`,
    value = the bot token.
 3. *Settings → Pages → Build and deployment → Source*: **GitHub Actions**.
 4. *Actions* tab: enable workflows if asked, then run **Update from Discord and deploy** once by hand
