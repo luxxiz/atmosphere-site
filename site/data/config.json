@@ -1,7 +1,7 @@
 {
   "_readme": "Site-wide settings used by every page. The yellow preview banner only shows on pages that still use example data.",
   "server_name": "ATMosphere",
-  "server_address": "82.24.111.62",
+  "server_address": "82.24.111.62:25565",
   "server_port": 25565,
   "discord_invite": "https://discord.gg/n6RMet9ge8",
   "kofi_url": "https://ko-fi.com/xdoctorbx",
