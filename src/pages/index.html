@@ -1,0 +1,76 @@
+<!--{"title": "ATMosphere · AllTheMods 10 community server", "page": "home", "scripts": ["js/home.js"]}-->
+<main>
+  <section class="hero">
+    <div class="wrap hero-inner">
+      <div class="hero-logo">
+        <img src="assets/atmosphere-logo-512.webp" alt="ATMosphere server logo" width="300" height="300">
+      </div>
+      <div class="hero-text">
+        <p class="eyebrow"><span class="pix-dot"></span> Public community server · AllTheMods 10</p>
+        <h1 class="logo"><span class="atm">ATM</span>osphere</h1>
+        <p class="tagline">An AllTheMods 10 community server. Build machines, automate everything, and play with people who love modded as much as you do.</p>
+        <div class="hero-actions">
+          <a href="join.html" class="mc-btn mc-btn-cyan big">How to join ▸</a>
+          <div class="ip-box">
+            <span class="ip-label">Server address</span>
+            <code data-cfg-text="server_address">82.24.111.62</code>
+            <button type="button" class="mc-btn mc-btn-stone small" data-copy="server_address">Copy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="wrap status-section">
+    <div class="panel status" id="status">
+      <div class="panel-head">
+        <h2>Server status</h2>
+        <span class="tag tag-orange" data-st="tag" hidden>Example data</span>
+      </div>
+      <div class="status-grid">
+        <div class="mc-slot stat">
+          <span class="stat-label">State</span>
+          <span class="stat-value"><span class="lamp off"></span><span data-st="state">Checking…</span></span>
+        </div>
+        <div class="mc-slot stat stat-players">
+          <span class="stat-label">Players</span>
+          <span class="stat-value"><span data-st="players">–</span> <small data-st="max"></small></span>
+          <div class="xpbar"><div style="width:0"></div></div>
+        </div>
+        <div class="mc-slot stat">
+          <span class="stat-label">Modpack</span>
+          <span class="stat-value" data-st="version"><span data-cfg-text="modpack.short">ATM10</span>&nbsp;<span data-cfg-text="modpack.version">8.3</span></span>
+        </div>
+        <div class="mc-slot stat">
+          <span class="stat-label">Minecraft</span>
+          <span class="stat-value"><span data-st="mc">1.21.1</span> <small>NeoForge</small></span>
+        </div>
+      </div>
+      <p class="status-updated" data-st="updated"></p>
+    </div>
+  </section>
+
+  <section class="wrap news">
+    <div class="section-head">
+      <h2>Latest announcements</h2>
+      <a href="announcements.html" class="link">All announcements ▸</a>
+    </div>
+    <div class="cards" id="latest-ann"><div class="panel state-msg">Loading announcements…</div></div>
+  </section>
+
+  <section class="wrap">
+    <div class="panel cta-strip">
+      <div class="cta">
+        <h3>Join the community</h3>
+        <p>Chat, get help and see announcements first.</p>
+        <a href="https://discord.gg/n6RMet9ge8" data-cfg-href="discord_invite" target="_blank" rel="noopener" class="mc-btn mc-btn-discord">Join our Discord</a>
+      </div>
+      <div class="cta-divider"></div>
+      <div class="cta">
+        <h3>Keep the lights on</h3>
+        <p>Running a modded server isn't cheap. Every bit helps.</p>
+        <a href="donate.html" class="mc-btn mc-btn-orange">☕ Support the server</a>
+      </div>
+    </div>
+  </section>
+</main>

@@ -1,0 +1,19 @@
+# Secrets: the Discord bot token lives ONLY in the GitHub secret ATMOSPHERE_DISCORD_BOT_TOKEN
+.env
+.env.*
+*.env
+*.token
+*.pem
+*.key
+secrets*
+# Live server status is regenerated on every run and shipped in the Pages artifact, not committed
+site/data/status.json
+# Local-only stuff
+site/_shots/
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.tmp
+.DS_Store
+Thumbs.db

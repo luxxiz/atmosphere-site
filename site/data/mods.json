@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Configured",
+    "filename": "configured-neoforge-1.21.1-2.6.3.jar",
+    "version": "2.6.3",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/configured",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/configured/files/7276577",
+    "modrinth_url": null,
+    "side": "client (CurseForge environment: not set)",
+    "notes": "By MrCrayfish. Chris's filename has no .jar extension. Not on Modrinth (the Modrinth project named 'configured' is a different mod by another author). Adds in-game config menus; mainly client-side, side not stated on page."
+  },
+  {
+    "name": "Create Encased",
+    "filename": "Create Encased-1.21.1-1.9.0-ht3.jar",
+    "version": "1.9.0-ht3",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-encased",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-encased/files/8549840",
+    "modrinth_url": "https://modrinth.com/mod/create-encased/version/t6MATlU9",
+    "side": "client & server",
+    "notes": "Exact file exists (name really has a space and '-ht3' suffix). Chris's filename has no .jar. Newer 1.10.0 exists."
+  },
+  {
+    "name": "Create: Blocks & Bogies",
+    "filename": "create_bb-1.0.8-1.21.1.jar",
+    "version": "1.0.8",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-blocks-bogies/files/8723463",
+    "modrinth_url": "https://modrinth.com/mod/blocks-bogies/version/nC19ZMKK",
+    "side": "client & server",
+    "notes": "Exact match."
+  },
+  {
+    "name": "Create: Connected",
+    "filename": "create_connected-1.3.3-mc1.21.1.jar",
+    "version": "1.3.3-mc1.21.1",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-connected",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-connected/files/8777573",
+    "modrinth_url": "https://modrinth.com/mod/create-connected/version/Xe7EqzfQ",
+    "side": "client & server",
+    "notes": "Real filename uses an underscore (create_connected-...), Chris wrote create-connected-...; same version, just a typo."
+  },
+  {
+    "name": "Create: Vibrant Vaults",
+    "filename": "create_vibrant_vaults-0.3.2.jar",
+    "version": "0.3.2",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-vibrant-vaults",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-vibrant-vaults/files/6463890",
+    "modrinth_url": "https://modrinth.com/mod/create-vibrant-vaults/version/t17qYXjn",
+    "side": "client & server",
+    "notes": "Ambiguous filename: 0.3.2 has a same-named file for 1.20.1 Forge too. Linked file is the NeoForge 1.21.1 one. Chris's filename has no .jar."
+  },
+  {
+    "name": "Rechiseled: Applied Energistics 2",
+    "filename": "rechiseledae-1.0.1-neoforge-mc1.21.1.jar",
+    "version": "1.0.1",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-applied-energistics-2",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/rechiseled-applied-energistics-2/files/8302952",
+    "modrinth_url": "https://modrinth.com/mod/rechiseled-applied-energistics-2/version/oNnXXgvi",
+    "side": "client & server",
+    "notes": "By SuperMartijn642 (not the different 'Rechiseled: AE2' by Christofmeg). Needs Rechiseled + AE2, both already in ATM10."
+  },
+  {
+    "name": "Create Crafts & Additions",
+    "filename": "createaddition-1.7.1.jar",
+    "version": "1.7.1",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/createaddition",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/createaddition/files/8887653",
+    "modrinth_url": "https://modrinth.com/mod/createaddition/version/vD7sHwsm",
+    "side": "client & server",
+    "notes": "ALREADY IN ATM10: ATM10 8.3 ships createaddition 1.7.2. Adding 1.7.1 on top would give two copies / a downgrade. 1.7.1 is a BETA file on CurseForge."
+  },
+  {
+    "name": "Create: Escalated",
+    "filename": "escalated-1.3.2-mc.1.21.1.jar",
+    "version": "1.3.2",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-escalated",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-escalated/files/8679269",
+    "modrinth_url": "https://modrinth.com/mod/escalated/version/vJ49zRJl",
+    "side": "client & server",
+    "notes": "Real filename is escalated-1.3.2-mc.1.21.1.jar; Chris wrote 'mc.21.1' (typo). Modrinth file is named escalated-1.3.2+mc.1.21.1.jar."
+  },
+  {
+    "name": "Packet Fixer",
+    "filename": "packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+    "version": "3.3.1",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/packet-fixer/files/7221528",
+    "modrinth_url": "https://modrinth.com/mod/packet-fixer/version/2C41Q8WX",
+    "side": "optional on client & server (recommended both)",
+    "notes": "Filename '1.20.5-1.21.X' is normal: one merged jar for MC 1.20.5-1.21.x incl. 1.21.1, Fabric/NeoForge/Quilt. Chris's filename has no .jar."
+  },
+  {
+    "name": "Create: Sound of Steam",
+    "filename": "pipeorgans-0.8.2+1.21.1.jar",
+    "version": "0.8.2",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-sound-of-steam",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-sound-of-steam/files/7315860",
+    "modrinth_url": "https://modrinth.com/mod/create-sound-of-steam/version/iFePoN10",
+    "side": "client & server",
+    "notes": "Mod id is 'pipeorgans' = Create: Sound of Steam (pipe organs). 0.8.2 is a BETA. Chris's filename has no .jar."
+  },
+  {
+    "name": "Create: Steam 'n' Rails (NeoForge 1.21.1 port)",
+    "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
+    "version": "0.2.1",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/steam-n-rails-neoforge",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/steam-n-rails-neoforge/files/8243336",
+    "modrinth_url": "https://modrinth.com/mod/create-steam-n-rails-1.21.1/version/HOPX5oro",
+    "side": "client & server",
+    "notes": "UNOFFICIAL port by PoppyBlossom ('Steam 'n' Rails Neoforge'). The official Create: Steam 'n' Rails project has no 1.21.1 build, so link the port, not the official page. Chris's filename has no .jar."
+  },
+  {
+    "name": "Create: The Factory Must Grow",
+    "filename": "tfmg-1.2.0.jar",
+    "version": "1.2.0",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/create-industry",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/create-industry/files/7430073",
+    "modrinth_url": "https://modrinth.com/mod/create-tfmg/version/uDi14nbt",
+    "side": "client & server",
+    "notes": "CurseForge slug is 'create-industry' (not create-tfmg). File tfmg-1.2.0.jar = 'tfmg-1.2.0-1.21.1'. Chris's filename has no .jar."
+  },
+  {
+    "name": "Simple Voice Chat",
+    "filename": "voicechat-neoforge-1.21.1-2.6.22.jar",
+    "version": "2.6.22",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/8601207",
+    "modrinth_url": "https://modrinth.com/mod/simple-voice-chat/version/2s7zUspF",
+    "side": "client & server (optional per Modrinth; needed on client to talk)",
+    "notes": "Server must open UDP port 24454 for voice to work. Chris's filename has no .jar."
+  },
+  {
+    "name": "Effortless Building: Sophisticated",
+    "filename": "sophisticatedbuilding-neoforge-1.21.1-5.0.2.jar",
+    "version": "5.0.2",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/effortlessbuilding-sophisticated",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/effortlessbuilding-sophisticated/files/9041131",
+    "modrinth_url": "https://modrinth.com/mod/effortless-building-sophisticated",
+    "side": "client & server",
+    "notes": "Confirmed: the file sophisticatedbuilding-* is 'Sophisticated Building', the CurseForge project 'Effortless Building: Sophisticated (Enhanced Fork)' by Navrelis (NOT Sophisticated Backpacks/Storage). Modrinth project only has v4.0.0, so 5.0.2 is CurseForge-only."
+  },
+  {
+    "name": "Factory Express",
+    "filename": "FactoryExpress-universal-21x.jar",
+    "version": "1.0-21.x",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/factory-express",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/factory-express/files/6517322",
+    "modrinth_url": null,
+    "side": "server (per CurseForge)",
+    "notes": "CurseForge only, not on Modrinth. Needs Factory Blocks (already in ATM10). Small mod, last updated May 2025."
+  },
+  {
+    "name": "Chipped Express",
+    "filename": "ChippedExpress-universal-21x.jar",
+    "version": "1.3.2-21x",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/chipped-express",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/chipped-express/files/6362997",
+    "modrinth_url": "https://modrinth.com/mod/chipped-express/version/NPqP9QZO",
+    "side": "server required (Modrinth: client unsupported; CurseForge: client & server)",
+    "notes": "Pages disagree on client side; data/recipe mod, likely only needed on the server. Needs Chipped (already in ATM10)."
+  },
+  {
+    "name": "Lightman's Currency",
+    "filename": "lightmanscurrency-1.21-2.3.0.6.jar",
+    "version": "2.3.0.6",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/lightmans-currency",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/lightmans-currency/files/9048585",
+    "modrinth_url": "https://modrinth.com/mod/lightmans-currency/version/XMHRtEIk",
+    "side": "client & server",
+    "notes": "Mod page: does NOT support servers with online-mode=false."
+  },
+  {
+    "name": "Lightman's Currency Tech",
+    "filename": "lctech-1.21-0.2.2.7.jar",
+    "version": "0.2.2.7",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/lc-tech",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/lc-tech/files/7405698",
+    "modrinth_url": "https://modrinth.com/mod/lc-tech/version/touwuiOG",
+    "side": "client & server",
+    "notes": "Chris's line had trailing spaces inside the filename cell; real name has none. Needs Lightman's Currency."
+  },
+  {
+    "name": "LCompat",
+    "filename": "lcompat-1.21-0.1.2a.jar",
+    "version": "0.1.2a",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/lcompat",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/lcompat/files/7942926",
+    "modrinth_url": "https://modrinth.com/mod/lcompat/version/LANeOUc6",
+    "side": "client & server",
+    "notes": "Lightman's Currency compat (Waystones, FTB Chunks; both in ATM10). Needs Lightman's Currency."
+  },
+  {
+    "name": "[SBW] Superb Warfare",
+    "filename": "superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar",
+    "version": "0.8.9.2",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/superb-warfare",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/superb-warfare/files/9019824",
+    "modrinth_url": "https://modrinth.com/mod/superb-warfare/version/bl7W8fjU",
+    "side": "client & server",
+    "notes": "Exact match. Block destruction from explosions is ON by default (server config explosion_destroy)."
+  },
+  {
+    "name": "MoreJS",
+    "filename": "morejs-neoforge-1.21.1-0.16.0.jar",
+    "version": "0.16.0",
+    "curseforge_project_url": "https://www.curseforge.com/minecraft/mc-mods/morejs",
+    "curseforge_file_url": "https://www.curseforge.com/minecraft/mc-mods/morejs/files/7103440",
+    "modrinth_url": "https://modrinth.com/mod/morejs/version/kyNrtsUY",
+    "side": "client & server (CurseForge environment: not set)",
+    "notes": "Chris's filename ends in '.jar.jar' (double extension, typo or renamed file). KubeJS addon; KubeJS is in ATM10, MoreJS is not."
+  }
+]

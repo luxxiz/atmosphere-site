@@ -1,0 +1,20 @@
+{
+  "_readme": "Non-secret updater settings. Environment variables with the same meaning override these. The bot token is NEVER stored here; it only comes from the ATMOSPHERE_DISCORD_BOT_TOKEN environment variable / GitHub secret.",
+  "announcements_channel_id": "1534472805410930728",
+  "showcase_channel_id": "1534571789886427197",
+  "minecraft_host": "82.24.111.62",
+  "minecraft_port": 25565,
+  "announcements_limit": 30,
+  "gallery_image_limit": 60,
+  "gallery_max_messages": 500,
+  "max_image_bytes": 26214400,
+  "full_image_max_width": 1920,
+  "thumb_size": [
+    480,
+    270
+  ],
+  "gallery_skip_jpeg": true,
+  "_gallery_skip_jpeg": "Minecraft screenshots are PNG. JPEGs posted in #showcase are phone/camera photos (holidays, food, desk setups) and are kept off the public site.",
+  "gallery_exclude_message_ids": [],
+  "_gallery_exclude_message_ids": "Discord message IDs whose images must never appear on the site (right-click message > Copy Message ID)."
+}

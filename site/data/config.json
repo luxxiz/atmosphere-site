@@ -1,0 +1,59 @@
+{
+  "_readme": "Site-wide settings used by every page. The yellow preview banner only shows on pages that still use example data.",
+  "server_name": "ATMosphere",
+  "server_address": "82.24.111.62",
+  "server_port": 25565,
+  "discord_invite": "https://discord.gg/n6RMet9ge8",
+  "kofi_url": "https://ko-fi.com/xdoctorbx",
+  "modpack": {
+    "name": "All the Mods 10",
+    "short": "ATM10",
+    "version": "8.3",
+    "curseforge_url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10",
+    "curseforge_files_url": "https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/all",
+    "version_is_placeholder": false,
+    "_version_note": "Confirmed 27 Oct 2026: the server reports All the Mods 10 8.3 (Server List Ping) and the 16/10/2026 #announcements changelog says UPDATED TO ATM 8.3. The Home status panel shows the live value when the server is online."
+  },
+  "minecraft_version": "1.21.1",
+  "neoforge_version": "21.1.259",
+  "curseforge_app_url": "https://www.curseforge.com/download/app",
+  "rules_are_placeholder": false,
+  "rules": [
+    {
+      "title": "Use common sense.",
+      "text": ""
+    },
+    {
+      "title": "No griefing.",
+      "text": ""
+    },
+    {
+      "title": "Have a good attitude.",
+      "text": ""
+    },
+    {
+      "title": "Admins reserve the right to yeet anyone, anytime.",
+      "text": ""
+    }
+  ],
+  "donate_intro": "Running ATMosphere for all of us is a passion project, but the hardware behind it definitely has its price! Whether it's big or small, every single contribution means the world to me and helps keep our Minecraft world running. Thank you in advance to whoever decides to contribute. ❤️",
+  "mods_hidden": [
+    {
+      "name": "Create Crafts & Additions",
+      "reason": "Already included in ATM10, adding it again would duplicate or downgrade it."
+    },
+    {
+      "name": "Factory Express",
+      "reason": "Server-only mod, players don't need it."
+    }
+  ],
+  "mod_notes": {
+    "Create: Steam 'n' Rails (NeoForge 1.21.1 port)": "Community NeoForge port. The official Steam 'n' Rails has no 1.21.1 build, so use this one.",
+    "Chipped Express": "Install it to be safe. The mod pages disagree on whether players need it.",
+    "Simple Voice Chat": "Needed if you want to talk in-game. Press V in-game to set it up.",
+    "Effortless Building: Sophisticated": "Version 5.0.2 is only on CurseForge."
+  },
+  "mod_modrinth_hidden": {
+    "Effortless Building: Sophisticated": "Modrinth only has an older version (4.0.0)."
+  }
+}

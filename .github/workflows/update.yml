@@ -1,0 +1,69 @@
+name: Update from Discord and deploy
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # GitHub can start scheduled runs late (often 5-30 min) when busy
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write    # commit refreshed data/media back to main
+  pages: write       # deploy to GitHub Pages
+  id-token: write    # required by actions/deploy-pages
+
+concurrency:
+  group: pages-update
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    # Commits pushed with GITHUB_TOKEN never trigger new runs; the [skip ci] check is a second guard against loops.
+    if: ${{ github.event_name != 'push' || !contains(github.event.head_commit.message, '[skip ci]') }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: updater/requirements.txt
+
+      - name: Install updater dependencies
+        run: pip install -r updater/requirements.txt
+
+      - name: Pull Discord posts + server status (read-only)
+        env:
+          ATMOSPHERE_DISCORD_BOT_TOKEN: ${{ secrets.ATMOSPHERE_DISCORD_BOT_TOKEN }}
+        run: python updater/update.py
+
+      - name: Build pages
+        run: python build.py
+
+      - name: Commit changed data back (only if something changed)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A site/data site/media site/*.html
+          if git diff --cached --quiet; then
+            echo "No content changes, nothing to commit."
+          else
+            git commit -m "Update site data from Discord [skip ci]"
+            { git pull --rebase origin main && git push origin HEAD:main; } \
+              || echo "::warning::Could not push the data commit (a push happened at the same time). The next run retries."
+          fi
+
+      - uses: actions/configure-pages@v6
+
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

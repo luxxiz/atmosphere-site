@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>How to join · ATMosphere</title>
+<meta name="description" content="ATMosphere, an AllTheMods 10 community Minecraft server.">
+<link rel="icon" href="assets/atmosphere-logo-128.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@500;600;700&family=VT323&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body data-page="join">
+<div class="mock-banner" id="placeholder-banner" hidden></div>
+
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <a href="index.html" class="brand">
+      <img src="assets/atmosphere-logo-128.webp" alt="" width="40" height="40">
+      <span><span class="atm">ATM</span>osphere</span>
+    </a>
+    <input type="checkbox" id="navtoggle" class="navtoggle" aria-label="Menu">
+    <label for="navtoggle" class="burger" aria-hidden="true"><span></span><span></span><span></span></label>
+    <nav class="nav hotbar" aria-label="Main">
+      <a href="index.html" class="slot">Home</a>
+      <a href="join.html" class="slot active">How to join</a>
+      <a href="announcements.html" class="slot">Announcements</a>
+      <a href="rules.html" class="slot">Rules</a>
+      <a href="gallery.html" class="slot">Gallery</a>
+      <a href="donate.html" class="mc-btn mc-btn-orange nav-donate">Donate</a>
+    </nav>
+  </div>
+</header>
+<main>
+  <section class="page-hero"><div class="wrap">
+    <p class="crumb"><a href="index.html">Home</a> / How to join</p>
+    <h1>How to <span class="hl">join</span></h1>
+    <p>Four steps and you're in. It takes about 15 minutes, most of it waiting for downloads.</p>
+  </div></section>
+
+  <section class="wrap">
+    <ol class="steps" style="list-style:none">
+      <li class="panel step">
+        <div class="mc-slot step-num">1</div>
+        <div>
+          <h2>Install the CurseForge app</h2>
+          <p>CurseForge is a free launcher that installs modpacks for you. Download it, install it and sign in with your Minecraft (Microsoft) account when it asks.</p>
+          <div class="actions">
+            <a href="https://www.curseforge.com/download/app" data-cfg-href="curseforge_app_url" target="_blank" rel="noopener" class="mc-btn mc-btn-cf">Get CurseForge ▸</a>
+          </div>
+        </div>
+      </li>
+
+      <li class="panel step">
+        <div class="mc-slot step-num">2</div>
+        <div>
+          <h2>Install All the Mods 10</h2>
+          <p>In CurseForge, search for <b>All the Mods 10</b> and install it. Pick the <b>same version as the server</b>, otherwise you can't connect.</p>
+          <div class="actions">
+            <span class="chip">Server version: <span data-cfg-text="modpack.short">ATM10</span> <span data-cfg-text="modpack.version">8.3</span></span>
+            <span class="chip">Minecraft <span data-cfg-text="minecraft_version">1.21.1</span> · NeoForge <span data-cfg-text="neoforge_version">21.1.259</span></span>
+          </div>
+          <div class="actions">
+            <a href="https://www.curseforge.com/minecraft/modpacks/all-the-mods-10" data-cfg-href="modpack.curseforge_url" target="_blank" rel="noopener" class="mc-btn mc-btn-cyan">ATM10 on CurseForge ▸</a>
+            <a href="https://www.curseforge.com/minecraft/modpacks/all-the-mods-10/files/all" data-cfg-href="modpack.curseforge_files_url" target="_blank" rel="noopener" class="link">All versions ▸</a>
+          </div>
+          <div class="tip"><b>Picking a version:</b> on the modpack page in CurseForge, click the version dropdown next to Install and choose the server's version. ATM10 is big, so give it extra RAM in CurseForge settings (we recommend up to 10 GB max).</div>
+        </div>
+      </li>
+
+      <li class="panel step" id="mods">
+        <div class="mc-slot step-num">3</div>
+        <div>
+          <h2>Add the extra mods</h2>
+          <p>Our server runs a few mods on top of ATM10. You need <b>all of them, at exactly these versions</b>. Each button below opens the right file on CurseForge (or Modrinth).</p>
+          <div class="tip orange"><b>Quick way to add them all:</b> download every file below, then in CurseForge open your ATM10 profile, click the <span class="kbd">⋮</span> menu and choose <b>Open Folder</b>. Open the <span class="kbd">mods</span> folder and drop all the downloaded <span class="kbd">.jar</span> files in there. Don't rename them.</div>
+          <div class="mods-head">
+            <span class="mods-count" id="mods-count">Loading mods…</span>
+            <span class="muted small">For <span data-cfg-text="modpack.short">ATM10</span> · Minecraft <span data-cfg-text="minecraft_version">1.21.1</span> · NeoForge</span>
+          </div>
+          <div class="mods-grid" id="mods-grid"></div>
+          <div class="tip"><b>Simple Voice Chat:</b> once you're in game, press <span class="kbd">V</span> to open the voice chat settings and pick your microphone. Talk with push-to-talk (default <span class="kbd">Caps Lock</span>) to players near you.</div>
+        </div>
+      </li>
+
+      <li class="panel step">
+        <div class="mc-slot step-num">4</div>
+        <div>
+          <h2>Add the server and connect</h2>
+          <ol>
+            <li>Press <b>Play</b> on your ATM10 profile in CurseForge and wait for the game to load (the first start takes a while).</li>
+            <li>Click <b>Multiplayer</b>, then <b>Add Server</b>.</li>
+            <li>Paste the address below into <b>Server Address</b>, click <b>Done</b> and join.</li>
+          </ol>
+          <div class="actions">
+            <div class="ip-box">
+              <span class="ip-label">Server address</span>
+              <code data-cfg-text="server_address">82.24.111.62</code>
+              <button type="button" class="mc-btn mc-btn-stone small" data-copy="server_address">Copy</button>
+            </div>
+            <span class="muted small">Port <span data-cfg-text="server_port">25565</span> is the default, so you don't need to type it.</span>
+          </div>
+          <div class="tip"><b>Stuck?</b> Ask in our <a class="link" href="https://discord.gg/n6RMet9ge8" data-cfg-href="discord_invite" target="_blank" rel="noopener">Discord</a>. A "mod mismatch" error usually means a missing extra mod or the wrong ATM10 version.</div>
+        </div>
+      </li>
+    </ol>
+  </section>
+</main>
+<footer class="footer">
+  <div class="wrap footer-inner">
+    <div>
+      <a href="index.html" class="brand">
+        <img src="assets/atmosphere-logo-128.webp" alt="" width="40" height="40">
+        <span><span class="atm">ATM</span>osphere</span>
+      </a>
+      <p class="muted">A fan-run community server. Not affiliated with Mojang, Microsoft or the AllTheMods team.</p>
+    </div>
+    <nav class="footer-nav" aria-label="Footer">
+      <a href="join.html">How to join</a><a href="announcements.html">Announcements</a>
+      <a href="rules.html">Rules</a><a href="gallery.html">Gallery</a><a href="donate.html">Donate</a>
+    </nav>
+  </div>
+  <div class="wrap muted small">© <span data-year>2026</span> ATMosphere · <span data-cfg-text="server_address">82.24.111.62</span></div>
+</footer>
+<script src="js/common.js"></script>
+<script src="js/join.js"></script>
+</body>
+</html>

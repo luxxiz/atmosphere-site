@@ -1,0 +1,342 @@
+{
+  "_readme": "Written automatically by updater/update.py from the Discord #announcements channel. Do not edit by hand.",
+  "source": "discord",
+  "items": [
+    {
+      "id": "a1564289664993468488",
+      "title": "🚨 For your information! 🚨",
+      "body": "<p>The server is currently offline for migration to dedicated host.</p>",
+      "text": "The server is currently offline for migration to dedicated host.",
+      "date": "2026-10-26T14:48:39.231000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1564289664993468488",
+      "images": []
+    },
+    {
+      "id": "a1564236157435256835",
+      "title": "🚨 For your information! 🚨",
+      "body": "<p>The server is currently downgraded from 20 threads to 6 and from 40 gb of ram to 12. We are never fully using those resources, not even a portion so im not expecting huge difference in performance but if this is the case, please be patient and consider im trying to get a deal with another provider as our provider is a shared provider. This means our resources are shared with other servers and can potentially be the bottleneck we are having with the TPS issues.<br>By downgrading now i will save us money that i will reinvest on a DEDICATED provider that will reserve a cpu only for our server. If i manage to get a good deal and better performance, we will migrate as soon as possible.<br>If the deal fails i will put the server back to the previous specs until i find another candidate for migration.</p>",
+      "text": "The server is currently downgraded from 20 threads to 6 and from 40 gb of ram to 12. We are never fully using those resources, not even a portion so im not expecting huge difference in performance but if this is the case, please be patient and consider im trying to get a deal with another provider as our provider is a shared provider. This means our resources are shared with other servers and can ",
+      "date": "2026-10-26T11:16:02.035000+00:00",
+      "edited": "2026-10-26T11:16:30.344000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1564236157435256835",
+      "images": []
+    },
+    {
+      "id": "a1564007132515274833",
+      "title": "For your information!",
+      "body": "<p>We are aware of the TPS issues on the server at times. The provider is struggling and @DoctorB is working hard trying to troubleshoot the issue along with the support.</p><p>You can continue playing as normal.</p><p>Just bare with us so we can get it hopefully working smoothly.<br>Thank you for your patience</p>",
+      "text": "We are aware of the TPS issues on the server at times. The provider is struggling and @DoctorB is working hard trying to troubleshoot the issue along with the support. \n\nYou can continue playing as normal. \n\n\nJust bare with us so we can get it hopefully working smoothly. \nThank you for your patience",
+      "date": "2026-10-25T20:05:58.239000+00:00",
+      "edited": "2026-10-25T20:08:04.168000+00:00",
+      "author": "luxxiz",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1564007132515274833",
+      "images": []
+    },
+    {
+      "id": "a1560638997179662357",
+      "title": "📝 Changelog 16/10/2026",
+      "body": "<p>📣 📣 UPDATED TO ATM 8.3📣 📣</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol><p>Updated custom pack: Ver. 1.6</p><p>🟢 Mods updated:</p><p>Effortless Building: Sophisticated (Enhanced Fork) --&gt; Sophisticated Building 5.0.2 - NeoForge 1.21-1.21.1</p><p>Lightman's Currency --&gt; lightmanscurrency-1.21-2.3.0.6.jar</p>",
+      "text": "📣 📣 UPDATED TO ATM 8.3📣 📣 \n\nHOW TO UPDATE:\n\n1) GO IN THE VERSION TAB\n\n2) ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10\n\n\nUpdated custom pack: Ver. 1.6\n\n\n🟢 Mods updated:\n\nEffortless Building: Sophisticated (Enhanced Fork) --> Sophisticated Building 5.0.2 - NeoForge 1.21-1.21.1\n\nLightman's Currency --> lightmanscurrency-1.21-2.3.0.6.jar",
+      "date": "2026-10-16T13:02:12.198000+00:00",
+      "edited": "2026-10-16T14:13:06.055000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1560638997179662357",
+      "images": []
+    },
+    {
+      "id": "a1559100084166197340",
+      "title": "📣 Information 📣",
+      "body": "<p>Please notice the world  lower height limit will change from Y - 320 to Y-64 on wednesday 14/10/26 during 14:00 restart</p><p>This will allow us to free a good part of the server's resources and improve the TPS as we now have more active players.</p><p>This will have a few implications:</p><ul><li>everything below Y -64 will be erased</li><li>there won't be a bedrock layer anymore in already generated chunks, i can eventually fix this with world edit or command blocks but it will take some time</li><li>there will be some weird generation gaps between already generated chunks and new ones</li></ul><p>For the moment, we will leave the high limit to + 620 as it doesn't impact performance as much (mostly just air)</p><p>🔴 <strong>If you have any structure/farm/machine below Y-64 please consider moving it above that level so that we will be ready for the change. </strong><br><strong>Please also consider that Y-64 itself will need to be free to be replaced with bedrock, make sure any block you place starts from -63</strong></p>",
+      "text": "Please notice the world lower height limit will change from Y - 320 to Y-64 on wednesday 14/10/26 during 14:00 restart\n\nThis will allow us to free a good part of the server's resources and improve the TPS as we now have more active players.\n\nThis will have a few implications:\n\n- everything below Y -64 will be erased\n\n- there won't be a bedrock layer anymore in already generated chunks, i can event",
+      "date": "2026-10-12T07:07:06.744000+00:00",
+      "edited": "2026-10-12T07:09:40.627000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1559100084166197340",
+      "images": []
+    },
+    {
+      "id": "a1556689609348358205",
+      "title": "📝 Changelog 05/10/2026",
+      "body": "<p>Added MoreJS to fix crash when interacting with any villager.</p><p>🟢 Mods added:</p><p>morejs-neoforge-1.21.1-0.16.0.jar -- MoreJS</p>",
+      "text": "Added MoreJS to fix crash when interacting with any villager.\n\n🟢 Mods added:\n\nmorejs-neoforge-1.21.1-0.16.0.jar -- MoreJS",
+      "date": "2026-10-05T15:28:44.763000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1556689609348358205",
+      "images": []
+    },
+    {
+      "id": "a1556530112076324867",
+      "title": "📣 Information 📣",
+      "body": "<p>There seems to be an issue with sophisticated backpacks where if you place the backpack in the world and change dimension/leave the server, data inside the backpack will be deleted and it will turn back into a basic backpack with no upgrades.</p><p>The author of the mod released a fix already which i will try to implement as soon as possible as players have experienced this issue.</p><p>If this happened to you, please contact me as i may be able to recover it via commands.</p><p>For the moment, please avoid placing backpacks woth valuable items.</p>",
+      "text": "There seems to be an issue with sophisticated backpacks where if you place the backpack in the world and change dimension/leave the server, data inside the backpack will be deleted and it will turn back into a basic backpack with no upgrades.\n\nThe author of the mod released a fix already which i will try to implement as soon as possible as players have experienced this issue.\n\nIf this happened to ",
+      "date": "2026-10-05T04:54:57.650000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1556530112076324867",
+      "images": []
+    },
+    {
+      "id": "a1556396622882144277",
+      "title": "📣 Information 📣",
+      "body": "<p>If you're having issues with getting disconnected when interacting with any type of trader (Wandering Trader etc). Make sure you install \"MoreJS\" to your client.</p><p>MoreJS-NeoForge-1.21.1-0.16.0.jar - MoreJS - <a href=\"https://www.curseforge.com/minecraft/mc-mods/morejs\">https://www.curseforge.com/minecraft/mc-mods/morejs</a></p>",
+      "text": "If you're having issues with getting disconnected when interacting with any type of trader (Wandering Trader etc). Make sure you install \"MoreJS\" to your client.\n\nMoreJS-NeoForge-1.21.1-0.16.0.jar - MoreJS - https://www.curseforge.com/minecraft/mc-mods/morejs",
+      "date": "2026-10-04T20:04:31.346000+00:00",
+      "edited": "2026-10-04T20:52:24.193000+00:00",
+      "author": "luxxiz",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1556396622882144277",
+      "images": []
+    },
+    {
+      "id": "a1555599416029880371",
+      "title": "📝 Changelog 02/10/2026",
+      "body": "<p>We got two new channels #💬｢ingame-chat｣  and #📢｢ingame-events｣</p><p>You will be able to chat from discord to minecraft and from minecraft to discord through #💬｢ingame-chat｣ .</p><p>You will be able to see server events like server startup, restart, stop and player joining/leaving on #📢｢ingame-events｣</p><p>After 8:00 PM restart, im adding back superbwarfare.</p><p>🟢 Mods added:</p><p>superbwarfare-0.8.9.2-mc1.21.1-c22d98c2.jar - [SWB] Superb warfare</p>",
+      "text": "We got two new channels #💬｢ingame-chat｣ and #📢｢ingame-events｣ \n\nYou will be able to chat from discord to minecraft and from minecraft to discord through #💬｢ingame-chat｣ .\n\nYou will be able to see server events like server startup, restart, stop and player joining/leaving on #📢｢ingame-events｣ \n\nAfter 8:00 PM restart, im adding back superbwarfare.\n\n🟢 Mods added:\n\nsuperbwarfare-0.8.9.2-mc1.21.1-c22d9",
+      "date": "2026-10-02T15:16:42.421000+00:00",
+      "edited": "2026-10-02T15:57:10.389000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1555599416029880371",
+      "images": []
+    },
+    {
+      "id": "a1554786111992238081",
+      "title": "Diamonds are \"easy\" to get with farms but it can be a good scale as we can use them for lower tier items, scaling the…",
+      "body": "<p>Diamonds are \"easy\" to get with farms but it can be a good scale as we can use them for lower tier items, scaling them for high tier items.</p><p>A general idea of what items may be worth:</p><p>1 stack of construction blocks may be valued at 1 copper coin<br>1 stack of redstone may be worth 2-3 copper coins<br>an high end item like a meka suit may require up to 500 netherite coins, meaning it is easy to get values of millions of diamonds without making cheap items too costly</p><p>Remember the economy will be player driven so in the end it is you that will make the prices, knowing that each copper coin costs you 1 diamond, each netherite coin costs you 100.000 diamonds.</p><p>Please keep in mind i'm adding these mods to check possibilities as anticipated in general chat.<br>Feel free to let me know what you think.</p><p>🟢 Mods added:</p><p>lightmanscurrency-1.21-2.3.0.5.jar -- Lightman's Currency<br>lctech-1.21-0.2.2.7.jar -- Lightman's Currency Tech<br>lcompat-1.21-0.1.2a.jar -- Lcompat</p>",
+      "text": "Diamonds are \"easy\" to get with farms but it can be a good scale as we can use them for lower tier items, scaling them for high tier items.\n\nA general idea of what items may be worth:\n\n1 stack of construction blocks may be valued at 1 copper coin\n1 stack of redstone may be worth 2-3 copper coins\nan high end item like a meka suit may require up to 500 netherite coins, meaning it is easy to get valu",
+      "date": "2026-09-30T09:24:55.628000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1554786111992238081",
+      "images": []
+    },
+    {
+      "id": "a1553322122582032466",
+      "title": "📝 Changelog 30/09/2026 (2:00 PM Server restart)",
+      "body": "<p>Introducing economy mods as a test keeping an eye open for any possible misuse/game boosting/progress skipping.</p><p>Wiki: <a href=\"https://github.com/Lightman314/LightmansCurrency/wiki\">https://github.com/Lightman314/LightmansCurrency/wiki</a></p><p>🔵 General info</p><p>There will be 6 coin tiers. (phisical items)</p><p>📝 Tiers:</p><p>copper<br>iron<br>gold<br>emerald<br>diamond<br>netherite</p><p>each coin is made with 10 coins of the previous tier<br>Example: 1 iron coin is 10 copper coins</p><p>Coins can be stored in wallets (curios slot), money chests or ATM (bank accounts)</p><p>Players can place phisical shops (vending machines or others) where they can sell or buy items.<br>it is possible to restock shops with machines</p><p>With these shops it will be possible to sell/buy items, armors, weapons, energy, fluids, tickets for areas and even sell or rent land.</p><p>🔴  Inflation (server taxes)</p><p>To control the quantity and thus the value of coins, there will not be an initial balance and the coins cannot be gathered in chests/looted from mobs and a server tax will be subtracted from the selling price of every sale.</p><p>Current server tax is set at 11%</p><p>The only source of new coins will be a server shop that will be created at spawn, it will sell copper coins at a price of 1 diamond for each coin.</p><p>By doing so, these are the values of the coins:</p><p>1 copper coin --&gt; 1 diamond<br>1 iron coin --&gt; 10 diamonds<br>1 gold coin --&gt; 100 diamonds<br>1 emerald coin --&gt; 1000 diamonds<br>1 diamond coin --&gt; 10.000 diamonds<br>1 netherite coin --&gt; 100.000 diamonds</p>",
+      "text": "Introducing economy mods as a test keeping an eye open for any possible misuse/game boosting/progress skipping. \n\nWiki: https://github.com/Lightman314/LightmansCurrency/wiki\n\n🔵 General info\n\nThere will be 6 coin tiers. (phisical items) \n\n📝 Tiers:\n\ncopper\niron\ngold\nemerald\ndiamond\nnetherite\n\neach coin is made with 10 coins of the previous tier\nExample: 1 iron coin is 10 copper coins\n\nCoins can be s",
+      "date": "2026-09-26T08:27:33.353000+00:00",
+      "edited": "2026-09-30T09:24:42.245000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1553322122582032466",
+      "images": []
+    },
+    {
+      "id": "a1553112728346951825",
+      "title": "📝 Changelog 25/09/2026",
+      "body": "<p>Updated custom pack: Ver. 1.1</p><p>Further cleaning up unused mods, addition of autocrafting with AE2 for rechiseled/chipped blocks</p><p>🟢 Mods added:</p><p>rechiseledae-1.0.1-neoforge-mc1.21.1 -Rechiseled: Applied Energistics 2</p><p>🔴 Mods removed:</p><p>createframed-1.21.1-1.8.2 - Create: Framed</p><p>Known issue with rechiseledae.<br>When you put a crafting pattern in your inventory, ExtendedAE will try to get the pattern as it adds the possibility to view them by pressing P when hovering on them.<br>With these chisel patterns, it cannot recover it and print this message:</p><p>\"This pattern isn't supported by ExtendedAE, please report it to Github...etc..etc\"</p><p>The pattern will work fine in your AE2.<br>However, report to me any issue you may find.</p>",
+      "text": "Updated custom pack: Ver. 1.1\n\nFurther cleaning up unused mods, addition of autocrafting with AE2 for rechiseled/chipped blocks\n\n🟢 Mods added:\n\nrechiseledae-1.0.1-neoforge-mc1.21.1 -Rechiseled: Applied Energistics 2\n\n\n🔴 Mods removed:\n\ncreateframed-1.21.1-1.8.2 - Create: Framed\n\n\nKnown issue with rechiseledae.\nWhen you put a crafting pattern in your inventory, ExtendedAE will try to get the pattern",
+      "date": "2026-09-25T18:35:29.877000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1553112728346951825",
+      "images": []
+    },
+    {
+      "id": "a1552702151036240055",
+      "title": "📣 📣 Published new quick install link/profile code📣 📣",
+      "body": "<p>Profile code or direct install link are now available in #🧾how-to-join</p>",
+      "text": "Profile code or direct install link are now available in #🧾how-to-join",
+      "date": "2026-09-24T15:24:00.618000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1552702151036240055",
+      "images": []
+    },
+    {
+      "id": "a1552212314923597835",
+      "title": "📝 Changelog 23/09/2026",
+      "body": "<p>📣 📣 UPDATED TO ATM 8.2📣 📣</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol><p>Further cleaning up unused mods:</p><p>🔴 Mods removed:</p><p>Immersive Vehicles-1.21.1-24.0.0.jar -- Immersive vehicle</p><p>MTS Official Pack-1.21.1-V29.jar -- Immersive vehicles</p><p>JustEnoughResources-NeoForge-1.21.1-1.6.0.17 -- Just Enough Resources</p><p>create-central-kitchen-2.6.1.jar -- Create: Central Kitchen</p><p>forgified-fabric-api-0.116.7+2.2.4+1.21.1 -- Forgified Fabric API</p><p>📣 📣WE NOW HAVE A DYNAMIC MAP📣 📣</p><p>Link --&gt; <a href=\"http://e-ams-1.folium.host:25542/\">http://e-ams-1.folium.host:25542/</a></p>",
+      "text": "📣 📣 UPDATED TO ATM 8.2📣 📣 \n\nHOW TO UPDATE:\n\n1) GO IN THE VERSION TAB\n\n2) ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10\n\n\n\nFurther cleaning up unused mods:\n\n🔴 Mods removed:\n\nImmersive Vehicles-1.21.1-24.0.0.jar -- Immersive vehicle\n\nMTS Official Pack-1.21.1-V29.jar -- Immersive vehicles\n\nJustEnoughResources-NeoForge-1.21.1-1.6.0.17 -- Just Enough Resources\n\ncreate-central-k",
+      "date": "2026-09-23T06:57:34.588000+00:00",
+      "edited": "2026-09-23T07:34:04.202000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1552212314923597835",
+      "images": []
+    },
+    {
+      "id": "a1551255664968470691",
+      "title": "📝 Changelog 20/09/2026",
+      "body": "<p>As part of the process to make the additional mods fewer to ease both my job to keep them up to date and also to  ease the process on your side, i decided to remove some of the mods that were there but no one is really using or do not add enough content to make the process worth it.</p><p>In #🧾how-to-join you will now find an OPTIONAL archive for those who just want to download a folder with mods and copy them to their ATM10 mods folder.<br>Note this is completely optional and you can keep manually managing your modpack.</p><p>🔴 Mods removed:</p><p>Chunky-NeoForge-1.4.23 --&gt; no need to have this on your clients as it is server side<br>create_oxidized-0.1.3<br>createbigcannons-5.11.7+mc.1.21.1<br>createrailwaysnavigator-neoforge-1.21.1-beta-0.9.1-C6<br>immersive_aircraft-1.5.0+1.21.1-neoforge.jar<br>ritchiesprojectilelib-2.1.2-mc.1.21.1-neoforge<br>smallships-neoforge-1.21.1-2.0.0-b2.1<br>sparsestructures-neoforge-1.21.1-3.0 --&gt; no need to have this on your clients as it is server side<br>superbwarfare-0.8.9.1-hotfix-mc1.21.1-2b9980c9.jar --&gt; replaced by Immersive vehicles<br>swashbucklers! 2.6.6C 1.21.1 neoforge<br>tectonic-3.0.28-neoforge-21.1.jar --&gt; no need to have this on your clients as it is server side<br>dragonlib-neoforge-1.21.1-beta-3.0.25</p><p>🟢 Mods added:</p><p>sophisticatedbuilding-neoforge-4.1.1.jar -- Effortless building:Sophisticated (Enhanced Fork)<br>Immersive Vehicles-1.21.1-24.0.0.jar -- Immersive vehicle<br>MTS Official Pack-1.21.1-V29.jar -- Immersive vehicles</p><p>There is another server side addition, but i will let you discover it on your own 🙈😝</p>",
+      "text": "As part of the process to make the additional mods fewer to ease both my job to keep them up to date and also to ease the process on your side, i decided to remove some of the mods that were there but no one is really using or do not add enough content to make the process worth it.\n\nIn #🧾how-to-join you will now find an OPTIONAL archive for those who just want to download a folder with mods and co",
+      "date": "2026-09-20T15:36:11.465000+00:00",
+      "edited": "2026-09-20T15:37:05.091000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1551255664968470691",
+      "images": []
+    },
+    {
+      "id": "a1550477853941043231",
+      "title": "📝 Changelog 18/09/2026",
+      "body": "<p>Updated mod list in #🧾how-to-join</p><p>📣 📣 UPDATED TO ATM 8.1📣 📣</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol><p>🟢  Mods updated:</p><p>copycats-3.0.9+mc.1.21.1-neoforge<br>tectonic-3.0.28-neoforge-21.1.jar<br>create-connected-1.3.3-mc1.21.1.jar<br>CreateDragonsPlus-1.11.9.jar<br>escalated-1.3.2-mc.21.1.jar<br>create_bb-1.0.8-1.21.1.jar<br>immersive_aircraft-1.5.0+1.21.1-neoforge.jar<br>create-central-kitchen-2.6.1.jar<br>create-enchantment-industry-2.5.4.jar<br>createaddition-1.7.1.jar</p><p>🔴 Mods removed:</p><p>| man_of_many_planes-0.2.1+1.21.1-neoforge              | Man of Many Planes</p>",
+      "text": "Updated mod list in #🧾how-to-join \n\n\n📣 📣 UPDATED TO ATM 8.1📣 📣 \n\nHOW TO UPDATE:\n\n1) GO IN THE VERSION TAB\n\n2) ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10\n\n\n🟢 Mods updated:\n\ncopycats-3.0.9+mc.1.21.1-neoforge\ntectonic-3.0.28-neoforge-21.1.jar\ncreate-connected-1.3.3-mc1.21.1.jar\nCreateDragonsPlus-1.11.9.jar\nescalated-1.3.2-mc.21.1.jar\ncreate_bb-1.0.8-1.21.1.jar\nimmersive_ai",
+      "date": "2026-09-18T12:05:26.865000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1550477853941043231",
+      "images": []
+    },
+    {
+      "id": "a1542917862044336228",
+      "title": "📣 Ranks!📣",
+      "body": "<p>If you join today you will notice i've reimplemented ranks.</p><p>We currently have these ranks:</p><p>🟢 <strong>Recruit</strong> (given as soon as you start playing)<br>Possibility to set 1 home (standard)<br>Standard /home cooldown (10s)<br>Standard /back cooldown (30s)<br>Standard /rtp cooldown (10 minutes)<br>🔵 <strong>Member</strong> (given after 1 day of playtime)<br>Possibility to set 1 home (standard)<br>/home cooldown (5s)<br>/back cooldown (20s)<br>/rtp cooldown (7.5 minutes)</p><p>🟡  <strong>VIP</strong> (given after 1 week of playtime)<br>Possibility to set 2 homes<br>/home cooldown (0s)<br>/back cooldown (10s)<br>/rtp cooldown (5 minutes)</p><p>This is of course a first implementation of ranks.<br>More will follow<br>As always feel free to contact me for suggestions</p>",
+      "text": "If you join today you will notice i've reimplemented ranks.\n\nWe currently have these ranks:\n\n🟢 Recruit (given as soon as you start playing)\nPossibility to set 1 home (standard)\nStandard /home cooldown (10s)\nStandard /back cooldown (30s)\nStandard /rtp cooldown (10 minutes)\n🔵 Member (given after 1 day of playtime)\nPossibility to set 1 home (standard)\n /home cooldown (5s)\n/back cooldown (20s)\n/rtp co",
+      "date": "2026-08-28T15:24:44.339000+00:00",
+      "edited": "2026-08-28T15:26:18.401000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1542917862044336228",
+      "images": []
+    },
+    {
+      "id": "a1542527000722542612",
+      "title": "📣 WE ARE CHANGING SERVER PROVIDER 📣",
+      "body": "<p>Soo, Mintserver is a good provider but so far it has been giving issues especially CPU wise. They offer \"unlimited\" ram but the CPU is limited and subject to high fee to upgrade.</p><p>We have found another provider that will grant us a complete dedicated CPU and 32GB of ram  which is plenty.(our server runs at 10 gigs normally)</p><p>The new server also has more SSD 100gb --&gt; 320GB</p><p>And all, for the same price!</p><p>Nothing should change for the players, except better experience.<br>I have moved the server to this provider since this afternoon but i will keep the other one for a couple of days just in case we have any issue.</p><p><strong>NEW SERVER IP: <u>e-ams-1.folium.host:25675</u></strong></p>",
+      "text": "Soo, Mintserver is a good provider but so far it has been giving issues especially CPU wise. They offer \"unlimited\" ram but the CPU is limited and subject to high fee to upgrade.\n\nWe have found another provider that will grant us a complete dedicated CPU and 32GB of ram which is plenty.(our server runs at 10 gigs normally)\n\nThe new server also has more SSD 100gb --> 320GB\n\nAnd all, for the same pr",
+      "date": "2026-08-27T13:31:35.738000+00:00",
+      "edited": "2026-08-27T13:33:55.914000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1542527000722542612",
+      "images": []
+    },
+    {
+      "id": "a1541343202064470046",
+      "title": "📝 Changelog 24/08/2026",
+      "body": "<p>🟢  Mods updated:</p><ul><li>copycats-3.0.8+mc.1.21.1-neoforge.jar | Create: Copycats +</li><li>superbwarfare-0.8.9.1-hotfix-mc1.21.1-2b9980c9.jar | [SBW] Superb Warfare</li></ul><p>Published mod list V0.7 in #🧾how-to-join</p>",
+      "text": "🟢 Mods updated:\n\n- copycats-3.0.8+mc.1.21.1-neoforge.jar | Create: Copycats +\n\n- superbwarfare-0.8.9.1-hotfix-mc1.21.1-2b9980c9.jar | [SBW] Superb Warfare\n\nPublished mod list V0.7 in #🧾how-to-join",
+      "date": "2026-08-24T07:07:36.144000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1541343202064470046",
+      "images": []
+    },
+    {
+      "id": "a1540686809225232458",
+      "title": "Published mod list V0.6 in #🧾how-to-join",
+      "body": "",
+      "text": "",
+      "date": "2026-08-22T11:39:19.896000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540686809225232458",
+      "images": []
+    },
+    {
+      "id": "a1540685598703222785",
+      "title": "Changelog 22/08/2026",
+      "body": "<p>Mods removed:</p><p>warfare_wings-1.1.4-1.21.1-neoforge.jar | Warfare Wings --&gt; unused<br>create_radar-0.4.9.4-1.21.1.jar | Create: Radars --&gt; Unused, fixed some recipes</p><p>Mods updated:</p><p>copycats-3.0.7+mc.1.21.1-neoforge.jar | Create: Copycats +</p><p>superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar | [SBW] Superb Warfare</p>",
+      "text": "Mods removed:\n\nwarfare_wings-1.1.4-1.21.1-neoforge.jar | Warfare Wings --> unused\ncreate_radar-0.4.9.4-1.21.1.jar | Create: Radars --> Unused, fixed some recipes\n\n\nMods updated:\n\ncopycats-3.0.7+mc.1.21.1-neoforge.jar | Create: Copycats +\n\nsuperbwarfare-0.8.9.1-mc1.21.1-133758c1.jar | [SBW] Superb Warfare",
+      "date": "2026-08-22T11:34:31.285000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540685598703222785",
+      "images": []
+    },
+    {
+      "id": "a1538830374929436694",
+      "title": "Announcement",
+      "body": "",
+      "text": "",
+      "date": "2026-08-17T08:42:31.469000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1538830374929436694",
+      "images": [
+        {
+          "src": "media/announcements/ann-a1538830374820515840.webp",
+          "width": 1920,
+          "height": 442
+        }
+      ]
+    },
+    {
+      "id": "a1538808742177546361",
+      "title": "Changelog 12/08/2026",
+      "body": "<p>Mods removed:</p><p>SBW-Drone-Warfare-1.21.1-NeoForge-1.0.2.jar --&gt; Unused</p><p>Updated mod list in #🧾how-to-join</p><p>UPDATED TO ATM 8.0</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol>",
+      "text": "Mods removed:\n\nSBW-Drone-Warfare-1.21.1-NeoForge-1.0.2.jar --> Unused\n\nUpdated mod list in #🧾how-to-join\n\n\nUPDATED TO ATM 8.0\n\nHOW TO UPDATE:\n\n1) GO IN THE VERSION TAB\n\n2) ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10",
+      "date": "2026-08-17T07:16:33.819000+00:00",
+      "edited": "2026-08-17T08:45:00.706000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1538808742177546361",
+      "images": []
+    },
+    {
+      "id": "a1537116032634978435",
+      "title": "Changelog 12/08/2026",
+      "body": "<p>Mods removed:</p><p>cbc_at_Neoforge_1.21.1_0.1.4c.jar Create big cannons:advanced technologies --&gt; generating recipe conflicts<br>effortlessbuilding-4.2+1.21.1.jar --&gt; Generating crash when coupled with infinity cells and wireless terminal</p>",
+      "text": "Mods removed:\n\ncbc_at_Neoforge_1.21.1_0.1.4c.jar Create big cannons:advanced technologies --> generating recipe conflicts\neffortlessbuilding-4.2+1.21.1.jar --> Generating crash when coupled with infinity cells and wireless terminal",
+      "date": "2026-08-12T15:10:20.415000+00:00",
+      "edited": "2026-08-12T16:30:37.835000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1537116032634978435",
+      "images": []
+    },
+    {
+      "id": "a1536348430522384435",
+      "title": "Published V0.4 list",
+      "body": "",
+      "text": "",
+      "date": "2026-08-10T12:20:09.810000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348430522384435",
+      "images": []
+    },
+    {
+      "id": "a1536348383596253234",
+      "title": "You can blindly click \"update\" on these except create enchantment industry",
+      "body": "",
+      "text": "",
+      "date": "2026-08-10T12:19:58.622000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348383596253234",
+      "images": []
+    },
+    {
+      "id": "a1536347772977160314",
+      "title": "10/08/2026",
+      "body": "<p>Mods Updated:</p><p>voicechat-neoforge-1.21.1-2.6.22 Simple Voice Chat<br>CreateDragonsPlus-1.11.4 DragonLib<br>create-enchantment-industry-2.5.0 Create: Enchantment Industry<br>create-central-kitchen-2.5.0 Create: Central Kitchen<br>createframed-1.21.1-1.8.2 Create: Framed<br>create_connected-1.3.2-mc1.21.1 Create: Connected<br>Create Encased-1.21.1-1.9.0-ht3 Create Encased<br>configured-neoforge-1.21.1-2.6.3 Configured</p>",
+      "text": "Mods Updated:\n\nvoicechat-neoforge-1.21.1-2.6.22 Simple Voice Chat\nCreateDragonsPlus-1.11.4 DragonLib\ncreate-enchantment-industry-2.5.0 Create: Enchantment Industry\ncreate-central-kitchen-2.5.0 Create: Central Kitchen\ncreateframed-1.21.1-1.8.2 Create: Framed\ncreate_connected-1.3.2-mc1.21.1 Create: Connected\nCreate Encased-1.21.1-1.9.0-ht3 Create Encased\nconfigured-neoforge-1.21.1-2.6.3 Configured",
+      "date": "2026-08-10T12:17:33.039000+00:00",
+      "edited": "2026-08-10T12:19:41.585000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536347772977160314",
+      "images": []
+    },
+    {
+      "id": "a1535925743136149594",
+      "title": "Changelog 09/08/2026",
+      "body": "<p>Mods removed:</p><p>DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar<br>createdeco-2.1.3.jar</p><p><u><em>Was causing some recipe issues</em></u></p><p>Published V0.3 list</p>",
+      "text": "Mods removed:\n\nDramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar\ncreatedeco-2.1.3.jar\n\nWas causing some recipe issues\n\nPublished V0.3 list",
+      "date": "2026-08-09T08:20:33.284000+00:00",
+      "edited": "2026-08-09T11:49:32.035000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1535925743136149594",
+      "images": []
+    },
+    {
+      "id": "a1534837095674286212",
+      "title": "Changelog 06/08/2026",
+      "body": "<ul><li>Sparsestructures: rarity has been lowered from 200% to 25%</li></ul><p><em><u>Structures should be more common now in new generated chunks</u></em></p><ul><li>removed recipes for superbwarfare weapons and vehicles - ammo is still craftable if you already have a weapon</li></ul><p><u><em>They can ruin part of the progress as they are very strong and possible griefing method --&gt; they will be used as prizes for community quests</em></u></p><p>Mods removed:</p><p><strong>create_waystones_recipes-3.0.1</strong><br><em><u>waystone recipes are now back to standard</u></em></p><p>Mods added:</p><p><strong>voicechat-neoforge-1.21.1-2.6.21 </strong><br><u> <em>allows for voice chat ingame</em></u></p><p>Published V0.2 list</p>",
+      "text": "- Sparsestructures: rarity has been lowered from 200% to 25%\nStructures should be more common now in new generated chunks\n\n- removed recipes for superbwarfare weapons and vehicles - ammo is still craftable if you already have a weapon\nThey can ruin part of the progress as they are very strong and possible griefing method --> they will be used as prizes for community quests\n\nMods removed:\n\ncreate_w",
+      "date": "2026-08-06T08:14:39.503000+00:00",
+      "edited": "2026-08-06T13:50:52.724000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1534837095674286212",
+      "images": []
+    },
+    {
+      "id": "a1534472949145538621",
+      "title": "I will publish new updates of the server pack on this channel.",
+      "body": "",
+      "text": "",
+      "date": "2026-08-05T08:07:40.205000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1534472949145538621",
+      "images": []
+    }
+  ]
+}
