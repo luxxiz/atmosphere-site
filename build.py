@@ -2,7 +2,7 @@
 """Tiny static build: stitches src/partials + src/pages/*.html into site/*.html.
 Each page starts with a JSON comment line: <!--{"title": "...", "page": "home", "scripts": ["js/home.js"]}-->
 Run: python3 build.py"""
-import json, pathlib, re
+import hashlib, json, pathlib, re
 ROOT = pathlib.Path(__file__).parent
 SRC, OUT = ROOT / "src", ROOT / "site"
 P = {n: (SRC / "partials" / f"{n}.html").read_text() for n in ("head", "header", "footer")}
@@ -18,5 +18,8 @@ for f in sorted((SRC / "pages").glob("*.html")):
         v[f"active_{n}"] = " active" if n == meta["page"] else ""
     html = P["head"] + P["header"] + body + P["footer"]
     html = re.sub(r"\{\{(\w+)\}\}", lambda x: v[x.group(1)], html)
+    # Cache-busting: add ?v=<content hash> to local CSS/JS so browsers fetch new versions right away.
+    html = re.sub(r'((?:href|src)=")((?:css|js)/[\w.-]+\.(?:css|js))"',
+                  lambda x: f'{x.group(1)}{x.group(2)}?v={hashlib.sha1((OUT / x.group(2)).read_bytes()).hexdigest()[:8]}"', html)
     (OUT / f.name).write_text(html)
     print("built", f.name)
