@@ -208,5 +208,15 @@
     "modrinth_url": "https://modrinth.com/mod/morejs/version/kyNrtsUY",
     "side": "client & server (CurseForge environment: not set)",
     "notes": "Chris's filename ends in '.jar.jar' (double extension, typo or renamed file). KubeJS addon; KubeJS is in ATM10, MoreJS is not."
+  },
+  {
+    "name": "CC: Tweaked",
+    "filename": "cc-tweaked-1.21.1-forge-1.120.2.jar",
+    "version": "1.120.2",
+    "curseforge_project_url": null,
+    "curseforge_file_url": null,
+    "modrinth_url": "https://modrinth.com/mod/cc-tweaked/version/1ewzHZYg",
+    "side": "client & server",
+    "notes": "Only on Modrinth (per Chris). File says forge but it is the NeoForge 1.21.1 build."
   }
 ]

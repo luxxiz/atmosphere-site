@@ -51,7 +51,8 @@
     "Create: Steam 'n' Rails (NeoForge 1.21.1 port)": "Community NeoForge port. The official Steam 'n' Rails has no 1.21.1 build, so use this one.",
     "Chipped Express": "Install it to be safe. The mod pages disagree on whether players need it.",
     "Simple Voice Chat": "Needed if you want to talk in-game. Press V in-game to set it up.",
-    "Effortless Building: Sophisticated": "Version 5.0.2 is only on CurseForge."
+    "Effortless Building: Sophisticated": "Version 5.0.2 is only on CurseForge.",
+    "CC: Tweaked": "Only on Modrinth, not CurseForge. The file name says forge, but it's the right one for NeoForge."
   },
   "mod_modrinth_hidden": {
     "Effortless Building: Sophisticated": "Modrinth only has an older version (4.0.0)."
