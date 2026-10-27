@@ -372,3 +372,7 @@ main{min-height:50vh}
 .perks{list-style:none;display:flex;flex-direction:column;gap:10px;margin-top:10px;padding:0}
 .perks li{display:flex;align-items:center;gap:14px;color:#dbe5f3}
 .perks .mc-slot{width:40px;height:40px;flex:none;display:flex;align-items:center;justify-content:center;font:1.5rem VT323,monospace;color:var(--orange-bright)}
+/* custom cursor: the ATM star (links and buttons keep the normal pointer) */
+html,body{cursor:url("../assets/cursor-star.png") 16 16,auto}
+a,button,[role="button"],label,summary,.mc-btn{cursor:pointer}
+input,textarea{cursor:text}
