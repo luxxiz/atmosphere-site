@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1565837260778381463",
+      "title": "🟠 Halloween event 🟠",
+      "body": "<p>Halloween event is now started.<br>It takes place at the spawn, won't give too many hints.</p><p>The first one to complete will get a place in the hall of fame but there is a prize for everyone!</p><p>Have fun 🙂</p>",
+      "text": "Halloween event is now started.\nIt takes place at the spawn, won't give too many hints.\n\nThe first one to complete will get a place in the hall of fame but there is a prize for everyone!\n\nHave fun 🙂",
+      "date": "2026-10-30T21:18:14.819000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1565837260778381463",
+      "images": []
+    },
+    {
       "id": "a1565669374721921039",
       "title": "📝 Changelog 30/10/2026",
       "body": "<p>📣 📣 UPDATED TO ATM 8.4📣 📣</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol><p>Updated custom pack: Ver. 1.7</p><p>🟢 Mods updated:</p><p>Effortless Building: Sophisticated (Enhanced Fork) --&gt; Sophisticated Building 5.1.2 - NeoForge 1.21-1.21.1<br>Create Encased --&gt; 1.10.0-fix1 for mc1.21.1<br>Create: Sound of Steam --&gt; beta 0.9.2.1-1.21.1</p>",
@@ -325,17 +336,6 @@
       "edited": "2026-08-09T11:49:32.035000+00:00",
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1535925743136149594",
-      "images": []
-    },
-    {
-      "id": "a1534837095674286212",
-      "title": "Changelog 06/08/2026",
-      "body": "<ul><li>Sparsestructures: rarity has been lowered from 200% to 25%</li></ul><p><em><u>Structures should be more common now in new generated chunks</u></em></p><ul><li>removed recipes for superbwarfare weapons and vehicles - ammo is still craftable if you already have a weapon</li></ul><p><u><em>They can ruin part of the progress as they are very strong and possible griefing method --&gt; they will be used as prizes for community quests</em></u></p><p>Mods removed:</p><p><strong>create_waystones_recipes-3.0.1</strong><br><em><u>waystone recipes are now back to standard</u></em></p><p>Mods added:</p><p><strong>voicechat-neoforge-1.21.1-2.6.21 </strong><br><u> <em>allows for voice chat ingame</em></u></p><p>Published V0.2 list</p>",
-      "text": "- Sparsestructures: rarity has been lowered from 200% to 25%\nStructures should be more common now in new generated chunks\n\n- removed recipes for superbwarfare weapons and vehicles - ammo is still craftable if you already have a weapon\nThey can ruin part of the progress as they are very strong and possible griefing method --> they will be used as prizes for community quests\n\nMods removed:\n\ncreate_w",
-      "date": "2026-08-06T08:14:39.503000+00:00",
-      "edited": "2026-08-06T13:50:52.724000+00:00",
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1534837095674286212",
       "images": []
     }
   ]
