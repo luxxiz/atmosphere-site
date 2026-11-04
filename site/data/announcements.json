@@ -3,6 +3,28 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1567467842436079659",
+      "title": "🟢 For your information! 🟢",
+      "body": "<p>The server is now back online on a shiny 9950X processor.<br>Not expecting miracles, but thats what we have paid for in the beginning. (3-5% faster maybe)</p>",
+      "text": "The server is now back online on a shiny 9950X processor.\nNot expecting miracles, but thats what we have paid for in the beginning. (3-5% faster maybe)",
+      "date": "2026-11-04T09:17:35.781000+00:00",
+      "edited": "2026-11-04T11:18:02.128000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1567467842436079659",
+      "images": []
+    },
+    {
+      "id": "a1567447834226204703",
+      "title": "🚨 For your information! 🚨",
+      "body": "<p>The server is currently offline for migration to the 9950X processor node.</p>",
+      "text": "The server is currently offline for migration to the 9950X processor node.",
+      "date": "2026-11-04T07:58:05.452000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1567447834226204703",
+      "images": []
+    },
+    {
       "id": "a1565837260778381463",
       "title": "🟠 Halloween event 🟠",
       "body": "<p>Halloween event is now started.<br>It takes place at the spawn, won't give too many hints.</p><p>The first one to complete will get a place in the hall of fame but there is a prize for everyone!</p><p>Have fun 🙂</p>",
@@ -314,28 +336,6 @@
       "edited": null,
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348383596253234",
-      "images": []
-    },
-    {
-      "id": "a1536347772977160314",
-      "title": "10/08/2026",
-      "body": "<p>Mods Updated:</p><p>voicechat-neoforge-1.21.1-2.6.22 Simple Voice Chat<br>CreateDragonsPlus-1.11.4 DragonLib<br>create-enchantment-industry-2.5.0 Create: Enchantment Industry<br>create-central-kitchen-2.5.0 Create: Central Kitchen<br>createframed-1.21.1-1.8.2 Create: Framed<br>create_connected-1.3.2-mc1.21.1 Create: Connected<br>Create Encased-1.21.1-1.9.0-ht3 Create Encased<br>configured-neoforge-1.21.1-2.6.3 Configured</p>",
-      "text": "Mods Updated:\n\nvoicechat-neoforge-1.21.1-2.6.22 Simple Voice Chat\nCreateDragonsPlus-1.11.4 DragonLib\ncreate-enchantment-industry-2.5.0 Create: Enchantment Industry\ncreate-central-kitchen-2.5.0 Create: Central Kitchen\ncreateframed-1.21.1-1.8.2 Create: Framed\ncreate_connected-1.3.2-mc1.21.1 Create: Connected\nCreate Encased-1.21.1-1.9.0-ht3 Create Encased\nconfigured-neoforge-1.21.1-2.6.3 Configured",
-      "date": "2026-08-10T12:17:33.039000+00:00",
-      "edited": "2026-08-10T12:19:41.585000+00:00",
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536347772977160314",
-      "images": []
-    },
-    {
-      "id": "a1535925743136149594",
-      "title": "Changelog 09/08/2026",
-      "body": "<p>Mods removed:</p><p>DramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar<br>createdeco-2.1.3.jar</p><p><u><em>Was causing some recipe issues</em></u></p><p>Published V0.3 list</p>",
-      "text": "Mods removed:\n\nDramaticDoors-NeoQuiFab-1.21.1-3.3.2.jar\ncreatedeco-2.1.3.jar\n\nWas causing some recipe issues\n\nPublished V0.3 list",
-      "date": "2026-08-09T08:20:33.284000+00:00",
-      "edited": "2026-08-09T11:49:32.035000+00:00",
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1535925743136149594",
       "images": []
     }
   ]
