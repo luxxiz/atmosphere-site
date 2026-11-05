@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1567933586156298412",
+      "title": "🌟 SERVER UPDATE 🌟",
+      "body": "<p>New mod added from next restart. See #📝｢changelog｣</p>",
+      "text": "New mod added from next restart. See #📝｢changelog｣",
+      "date": "2026-11-05T16:08:17.737000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1567933586156298412",
+      "images": []
+    },
+    {
       "id": "a1567794634787389521",
       "title": "🌟 SERVER UPDATE 🌟",
       "body": "<blockquote><br>📦 The server is now running on <strong>ATM 8.5</strong>!<br><br>🔍 <em>Want to see what's new?</em> Head over to #📝｢changelog｣ for the full changelog.</blockquote>",
@@ -325,17 +336,6 @@
       "edited": "2026-08-12T16:30:37.835000+00:00",
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1537116032634978435",
-      "images": []
-    },
-    {
-      "id": "a1536348430522384435",
-      "title": "Published V0.4 list",
-      "body": "",
-      "text": "",
-      "date": "2026-08-10T12:20:09.810000+00:00",
-      "edited": null,
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348430522384435",
       "images": []
     }
   ]
