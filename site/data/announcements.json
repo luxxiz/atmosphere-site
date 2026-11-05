@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1567794634787389521",
+      "title": "🌟 SERVER UPDATE 🌟",
+      "body": "<blockquote><br>📦 The server is now running on <strong>ATM 8.5</strong>!<br><br>🔍 <em>Want to see what's new?</em> Head over to #📝｢changelog｣ for the full changelog.</blockquote>",
+      "text": "📦 The server is now running on ATM 8.5!\n🔍 Want to see what's new? Head over to #📝｢changelog｣ for the full changelog.",
+      "date": "2026-11-05T06:56:09.149000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1567794634787389521",
+      "images": []
+    },
+    {
       "id": "a1567467842436079659",
       "title": "🟢 For your information! 🟢",
       "body": "<p>The server is now back online on a shiny 9950X processor.<br>Not expecting miracles, but thats what we have paid for in the beginning. (3-5% faster maybe)</p>",
@@ -325,17 +336,6 @@
       "edited": null,
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348430522384435",
-      "images": []
-    },
-    {
-      "id": "a1536348383596253234",
-      "title": "You can blindly click \"update\" on these except create enchantment industry",
-      "body": "",
-      "text": "",
-      "date": "2026-08-10T12:19:58.622000+00:00",
-      "edited": null,
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1536348383596253234",
       "images": []
     }
   ]
