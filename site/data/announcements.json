@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1569751080621834343",
+      "title": "🟢 For your information! 🟢",
+      "body": "<p>Server is back online.</p>",
+      "text": "Server is back online.",
+      "date": "2026-11-10T16:30:22.185000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1569751080621834343",
+      "images": []
+    },
+    {
       "id": "a1569712706204999791",
       "title": "🚨 For your information! 🚨",
       "body": "<p>The server is currently offline for maintenance.</p>",
@@ -326,17 +337,6 @@
           "height": 442
         }
       ]
-    },
-    {
-      "id": "a1538808742177546361",
-      "title": "Changelog 12/08/2026",
-      "body": "<p>Mods removed:</p><p>SBW-Drone-Warfare-1.21.1-NeoForge-1.0.2.jar --&gt; Unused</p><p>Updated mod list in #🧾how-to-join</p><p>UPDATED TO ATM 8.0</p><p>HOW TO UPDATE:</p><ol><li>GO IN THE VERSION TAB</li><li>ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10</li></ol>",
-      "text": "Mods removed:\n\nSBW-Drone-Warfare-1.21.1-NeoForge-1.0.2.jar --> Unused\n\nUpdated mod list in #🧾how-to-join\n\n\nUPDATED TO ATM 8.0\n\nHOW TO UPDATE:\n\n1) GO IN THE VERSION TAB\n\n2) ONLY CLICK THE \"DOWNLOAD\" ICON AND WAIT FOR CURSEFORGE TO UPDATE ATM10",
-      "date": "2026-08-17T07:16:33.819000+00:00",
-      "edited": "2026-08-17T08:45:00.706000+00:00",
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1538808742177546361",
-      "images": []
     }
   ]
 }
