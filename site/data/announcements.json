@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1572602809420087460",
+      "title": "📦 SERVER UPDATE • Version 8.6",
+      "body": "<p>📦 SERVER PACK UPDATE • Version 1.8<br>📅 Date: 18/11/2026</p><p>The server has been updated to All The Mods 8.6! Here is the breakdown of the mod changes:</p><p>---</p><p>🔄 Mods Updated:</p><ul><li>Create: Encased ➔ Create-Encased-1.21.1-1.10.1.jar</li><li>Superb Warfare ➔ superbwarfare-0.8.9.2-hotfix-mc1.21.1-e0c2b27f.jar</li></ul><p>---</p><p>➕ Mods Added:</p><ul><li>Emojiful ➔ Emojiful-Neoforge-1.21-5.2.4-all.jar</li></ul><p>---</p><p>➖ Mods Removed:</p><ul><li>None</li></ul><p>---</p><p>⚠️ Reminder: Make sure your client is updated to version 8.6/1.8 before joining! ⛏️✨</p>",
+      "text": "📦 SERVER PACK UPDATE • Version 1.8\n📅 Date: 18/11/2026\n\nThe server has been updated to All The Mods 8.6! Here is the breakdown of the mod changes:\n\n---\n\n🔄 Mods Updated:\n• Create: Encased ➔ Create-Encased-1.21.1-1.10.1.jar\n• Superb Warfare ➔ superbwarfare-0.8.9.2-hotfix-mc1.21.1-e0c2b27f.jar\n\n---\n\n➕ Mods Added:\n• Emojiful ➔ Emojiful-Neoforge-1.21-5.2.4-all.jar\n\n---\n\n➖ Mods Removed:\n• None\n\n---\n\n⚠️ R",
+      "date": "2026-11-18T13:22:07.313000+00:00",
+      "edited": "2026-11-18T13:45:19.139000+00:00",
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1572602809420087460",
+      "images": []
+    },
+    {
       "id": "a1569751080621834343",
       "title": "🟢 For your information! 🟢",
       "body": "<p>Server is back online.</p>",
@@ -320,23 +331,6 @@
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540685598703222785",
       "images": []
-    },
-    {
-      "id": "a1538830374929436694",
-      "title": "Announcement",
-      "body": "",
-      "text": "",
-      "date": "2026-08-17T08:42:31.469000+00:00",
-      "edited": null,
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1538830374929436694",
-      "images": [
-        {
-          "src": "media/announcements/ann-a1538830374820515840.webp",
-          "width": 1920,
-          "height": 442
-        }
-      ]
     }
   ]
 }
