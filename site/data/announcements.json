@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1573312880596488396",
+      "title": "🌟 SERVER UPDATE 🌟",
+      "body": "<p>New mod added. See ⁠📝｢changelog｣</p>",
+      "text": "New mod added. See ⁠📝｢changelog｣",
+      "date": "2026-11-20T12:23:41.474000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1573312880596488396",
+      "images": []
+    },
+    {
       "id": "a1572602809420087460",
       "title": "📦 SERVER UPDATE • Version 8.6",
       "body": "<p>📦 SERVER PACK UPDATE • Version 1.8<br>📅 Date: 18/11/2026</p><p>The server has been updated to All The Mods 8.6! Here is the breakdown of the mod changes:</p><p>---</p><p>🔄 Mods Updated:</p><ul><li>Create: Encased ➔ Create-Encased-1.21.1-1.10.1.jar</li><li>Superb Warfare ➔ superbwarfare-0.8.9.2-hotfix-mc1.21.1-e0c2b27f.jar</li></ul><p>---</p><p>➕ Mods Added:</p><ul><li>Emojiful ➔ Emojiful-Neoforge-1.21-5.2.4-all.jar</li></ul><p>---</p><p>➖ Mods Removed:</p><ul><li>None</li></ul><p>---</p><p>⚠️ Reminder: Make sure your client is updated to version 8.6/1.8 before joining! ⛏️✨</p>",
@@ -319,17 +330,6 @@
       "edited": null,
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540686809225232458",
-      "images": []
-    },
-    {
-      "id": "a1540685598703222785",
-      "title": "Changelog 22/08/2026",
-      "body": "<p>Mods removed:</p><p>warfare_wings-1.1.4-1.21.1-neoforge.jar | Warfare Wings --&gt; unused<br>create_radar-0.4.9.4-1.21.1.jar | Create: Radars --&gt; Unused, fixed some recipes</p><p>Mods updated:</p><p>copycats-3.0.7+mc.1.21.1-neoforge.jar | Create: Copycats +</p><p>superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar | [SBW] Superb Warfare</p>",
-      "text": "Mods removed:\n\nwarfare_wings-1.1.4-1.21.1-neoforge.jar | Warfare Wings --> unused\ncreate_radar-0.4.9.4-1.21.1.jar | Create: Radars --> Unused, fixed some recipes\n\n\nMods updated:\n\ncopycats-3.0.7+mc.1.21.1-neoforge.jar | Create: Copycats +\n\nsuperbwarfare-0.8.9.1-mc1.21.1-133758c1.jar | [SBW] Superb Warfare",
-      "date": "2026-08-22T11:34:31.285000+00:00",
-      "edited": null,
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540685598703222785",
       "images": []
     }
   ]
