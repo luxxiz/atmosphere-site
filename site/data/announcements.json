@@ -3,6 +3,17 @@
   "source": "discord",
   "items": [
     {
+      "id": "a1573728735537008861",
+      "title": "🌟 SERVER UPDATE 🌟",
+      "body": "<p>New mod added. See ⁠📝｢changelog｣</p>",
+      "text": "New mod added. See ⁠📝｢changelog｣",
+      "date": "2026-11-21T15:56:09.018000+00:00",
+      "edited": null,
+      "author": "DoctorB",
+      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1573728735537008861",
+      "images": []
+    },
+    {
       "id": "a1573312880596488396",
       "title": "🌟 SERVER UPDATE 🌟",
       "body": "<p>New mod added. See ⁠📝｢changelog｣</p>",
@@ -319,17 +330,6 @@
       "edited": null,
       "author": "DoctorB",
       "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1541343202064470046",
-      "images": []
-    },
-    {
-      "id": "a1540686809225232458",
-      "title": "Published mod list V0.6 in #🧾how-to-join",
-      "body": "",
-      "text": "",
-      "date": "2026-08-22T11:39:19.896000+00:00",
-      "edited": null,
-      "author": "DoctorB",
-      "url": "https://discord.com/channels/1534353345651933317/1534472805410930728/1540686809225232458",
       "images": []
     }
   ]
